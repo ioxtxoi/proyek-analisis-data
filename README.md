@@ -6,7 +6,12 @@
 2.   Bagaimana partikel udara dengan ukuran 10 yang ada terhadap arah angin?
 ```
 
-## Run steamlit app
+## Download streamlit app in Google Colab
+```
+!pip install streamlit
+```
+
+## Run streamlit app in Google Colab
 ```
 !streamlit run dashboard.py & npx localtunnel --port 8501
 ```
